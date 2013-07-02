@@ -13,6 +13,6 @@
     </head>
     <body>
         <applet code="be.maethy.hello.MyApplet" archive="AppletTest2.jar" width="600" height="480"/>
-        <h1>Hello World!</h1>
+        <h1>Hello NEW World!</h1>
     </body>
 </html>
